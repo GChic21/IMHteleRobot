@@ -31,8 +31,11 @@ En la carpeta Tarea 2 se encontrarán los archivos .STL con las modificaciones q
 En el proceso de fabricación de las piezas de plástico que componen el robot, la temperatura y humedad del proceso son parámetros clave. Es por ello que será necesario tener estos parametros controlados y visualizados en un dashboard. La implementación del dashboard se realizará mediante el software web Node-Red. Sobre dicho dashboard se podrán ver las gráficas correspondientes a los datos ambientales que están sensorizados. Los parámetros que vamos a controlar son:
 
 -Emisiones de CO2
+
 -Temperatura ambiente
+
 -Humedad del entorno
+
 -Ruido
 
 Los sensores se encuentran integrados sobre un placa Particle Argon, que irá a su vez integrada sobre la ranura que se ha creado en la tarea anterior.
@@ -42,10 +45,15 @@ En la carpeta Tarea 3 se encuentra el archivo .ino con el código del microcontr
 IMAGEN GRÁFICA
 
 # TAREA 4: Programación de linea de packaging.
+Tras fabricar los robots de telepresencia, estos deben de ser enviados a su destino en lotes de diferente cantidad de unidades El objetivo de esta tarea es programar una línea de clasificación por altura de cajas con robots. Para ello utilizaremos el software TIA PORTAL y FACTORY I/O.
 
+La clasificación consta de un sensor de detección de alturas de cajas, el cual activa un mecanismo de giro de cajas para que salgan por una cinta transportadora o por otra, en función de la linea de envasado de cada producto. El sensor detecta la altura de la caja y manda una señal al mecanismo de giro que discretiza según el criterio de giro que se le otorgue en el programa.
 
+IMAGEN FACTORY
+
+En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
 
 # TAREA 5: Visualización con Tableau de los datos ambientales del aula.
-
+Por último, pero no por ello menos importante se dispone a visualizar los datos ambientales del aula mediante el software Tableau. Este software permite una representación muy cómoda y sencilla de entender sobre cualquiera de los datos que se quiera presentar. En este caso se ha optado por una representación en forma de diagrama de barras BLA BLA BLA BLA
 
 
