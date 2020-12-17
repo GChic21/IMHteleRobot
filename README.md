@@ -23,7 +23,7 @@ En esta tarea se realizan modificaciones sobre el diseño CAD de las piezas del 
 
 ![](images/cad.jpeg)
 
-![](images/cad2.jpg)
+![](images/cad2.jpeg)
 
 Por otro lado se encuentra la metrología con visión artificial. Para realizar esta tarea se ha dispuesto de una máquina virtual con Python y OpenCV instalados, así como de una Raspberry Pi con cámara. 
 
