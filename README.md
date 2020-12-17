@@ -42,6 +42,7 @@ Los sensores se encuentran integrados sobre un placa Particle Argon, que irá a 
 
 En la carpeta Tarea 3 se encuentra el archivo .ino con el código del microcontrolador Particle y el archivo JSON con el dashboard en Node-Red.
 
+El link para visualizar el dashboard se encuentra a continuación:
 https://j6q00k.stackhero-network.com/dashboard/#!/4?socketid=luJHp9qr_WXe85WKAABO
 
 
