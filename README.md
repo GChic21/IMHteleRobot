@@ -21,7 +21,8 @@ Los documentos que contienen el código de ambas operaciones se encuentran dentr
 # TAREA 2: CAD y prototipado 3D.
 En esta tarea se realizan modificaciones sobre el diseño CAD de las piezas del robot. Concretamente se realizará un pequeño orificio donde se colocará el sensor que recoge los datos de la calidad ambiental. Además se añadirán modificaciones propias que incluyen los sistemas de acople y ajuste para el sensor de ultrasonidos y para la ubicación del Arduino. Las piezas que componen la estructura exterior del robot se realizarán mediante impresión 3D en la propia impresora de la escuela IMH.
 
-IMAGEN CAD
+![](images/cad.jpg)
+![](images/cad2.jpg)
 
 Por otro lado se encuentra la metrología con visión artificial. Para realizar esta tarea se ha dispuesto de una máquina virtual con Python y OpenCV instalados, así como de una Raspberry Pi con cámara. 
 
@@ -41,6 +42,8 @@ En el proceso de fabricación de las piezas de plástico que componen el robot, 
 Los sensores se encuentran integrados sobre un placa Particle Argon, que irá a su vez integrada sobre la ranura que se ha creado en la tarea anterior.
 
 En la carpeta Tarea 3 se encuentra el archivo .ino con el código del microcontrolador Particle y el archivo JSON con el dashboard en Node-Red.
+
+![](images/Dashboard.png)
 
 El link para visualizar el dashboard se encuentra a continuación:
 https://j6q00k.stackhero-network.com/dashboard/#!/4?socketid=luJHp9qr_WXe85WKAABO
