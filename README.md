@@ -9,8 +9,9 @@ Los niños y mayores que a causa de una enfermedad no pueden interactuar presenc
 ## TAREA 1: Sensorizacion y control.
 En esta tarea se realiza la propia sensorización y programación del robot para que realice las acciones requeridas. En este caso, se precisa que el robot sea capaz de detectar los bordes de la superficie sobre la que está apoyado, para así poder frenar y no caerse.
 El movimiento del robot se realiza mediante una aplicación de móvil, conectado por vía bluetooth de baja energía(BLE). En la aplicación podremos mover el robot libremente y variar el ángulo de inclinación del móvil. La programación de estos movimientos se encuentra en lenguaje python sobre el entorno Microbit. La tarjeta Microbit va integrada sobre el robot Gigglebot.
-
-   ![](images/gigglebot.jpgstyle=centerme)
+<p align="center">
+   ![](images/gigglebot.jpg)
+</p>
 
 La parte referente a la detección de los bordes de la superficie está programada en Arduino mediante el control de un sensor de ultrasonidos. Cuando el sensor detecte un valor superior a 10 (medida ligeramente superior a la distancia entre el sensor y la superficie sobre la que se moverá), lanzará un pulso mediante una de sus pines de salidas digitales. El pulso es recepcionado sobre la tarjeta Microbit mencionada anteriormente, por lo que ambas tarjetas deberán estar conectadas.
 
