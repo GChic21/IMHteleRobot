@@ -50,7 +50,7 @@ Tras fabricar los robots de telepresencia, estos deben de ser enviados a su dest
 La clasificación consta de un sensor de detección de alturas de cajas, el cual activa un mecanismo de giro de cajas para que salgan por una cinta transportadora o por otra, en función de la linea de envasado de cada producto. El sensor detecta la altura de la caja y manda una señal al mecanismo de giro que discretiza según el criterio de giro que se le otorgue en el programa.
 
 ![](images/Programa.png)
-![](videos/Factory_IOx2.mp4)
+[!Watch the video](https://www.youtu.be/cuvw47vaSta)
 
 En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
 
