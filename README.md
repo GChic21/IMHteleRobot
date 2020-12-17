@@ -63,4 +63,4 @@ En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la
 # TAREA 5: Visualización con Tableau de los datos ambientales del aula.
 Por último, pero no por ello menos importante se dispone a visualizar los datos ambientales del aula mediante el software Tableau. Este software permite una representación muy cómoda y sencilla de entender sobre cualquiera de los datos que se quiera presentar. En este caso se ha optado por una representación en forma de diagrama de barras BLA BLA BLA BLA
 
-
+![](images/tableau.png)
