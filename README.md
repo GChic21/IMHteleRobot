@@ -42,7 +42,8 @@ Los sensores se encuentran integrados sobre un placa Particle Argon, que irá a 
 
 En la carpeta Tarea 3 se encuentra el archivo .ino con el código del microcontrolador Particle y el archivo JSON con el dashboard en Node-Red.
 
-IMAGEN GRÁFICA
+https://j6q00k.stackhero-network.com/dashboard/#!/4?socketid=luJHp9qr_WXe85WKAABO
+
 
 # TAREA 4: Programación de linea de packaging.
 Tras fabricar los robots de telepresencia, estos deben de ser enviados a su destino en lotes de diferente cantidad de unidades El objetivo de esta tarea es programar una línea de clasificación por altura de cajas con robots. Para ello utilizaremos el software TIA PORTAL y FACTORY I/O.
@@ -50,7 +51,7 @@ Tras fabricar los robots de telepresencia, estos deben de ser enviados a su dest
 La clasificación consta de un sensor de detección de alturas de cajas, el cual activa un mecanismo de giro de cajas para que salgan por una cinta transportadora o por otra, en función de la linea de envasado de cada producto. El sensor detecta la altura de la caja y manda una señal al mecanismo de giro que discretiza según el criterio de giro que se le otorgue en el programa.
 
 ![](images/Programa.png)
-[![Watch the video](https://gyazo.com/8392fc11e0f13c68a845dd81e15936a3)](https://www.youtube.com/watch?v=cuvw47vaStA&feature=youtu.be)
+[![PULSA AQUI PARA VER EL VIDEO](https://gyazo.com/8392fc11e0f13c68a845dd81e15936a3)](https://www.youtube.com/watch?v=cuvw47vaStA&feature=youtu.be)
 
 En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
 
