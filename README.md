@@ -14,6 +14,8 @@ El movimiento del robot se realiza mediante una aplicación de móvil, conectado
 
 La parte referente a la detección de los bordes de la superficie está programada en Arduino mediante el control de un sensor de ultrasonidos. Cuando el sensor detecte un valor superior a 10 (medida ligeramente superior a la distancia entre el sensor y la superficie sobre la que se moverá), lanzará un pulso mediante una de sus pines de salidas digitales. El pulso es recepcionado sobre la tarjeta Microbit mencionada anteriormente, por lo que ambas tarjetas deberán estar conectadas.
 
+![](images/circuitos.jpeg)
+
 Los documentos que contienen el código de ambas operaciones se encuentran dentro de la carpeta Tarea 1.
 
 
