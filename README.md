@@ -16,7 +16,7 @@ La parte referente a la detección de los bordes de la superficie está programa
 
 ![](images/images/circuitos.jpeg)
 
-Los documentos que contienen el código de ambas operaciones se encuentran dentro de la carpeta Tarea 1.
+Los documentos que contienen el código de ambas operaciones se encuentran dentro de la carpeta **Tarea 1.
 
 
 
@@ -29,7 +29,7 @@ En esta tarea se realizan modificaciones sobre el diseño CAD de las piezas del 
 
 Por otro lado se encuentra la metrología con visión artificial. Para realizar esta tarea se ha dispuesto de una máquina virtual con Python y OpenCV instalados, así como de una Raspberry Pi con cámara. 
 
-En la carpeta Tarea 2 se encontrarán los archivos .STL con las modificaciones que se han mencionado anteriormente ya aplicadas. Asimismo se encuentra la programación en python de la parte referente a la visión artificial.
+En la carpeta **Tarea 2** se encontrarán los archivos .STL con las modificaciones que se han mencionado anteriormente ya aplicadas. Asimismo se encuentra la programación en python de la parte referente a la visión artificial.
 
 ## TAREA 3: Flujo y visualización en RA.
 En el proceso de fabricación de las piezas de plástico que componen el robot, la temperatura y humedad del proceso son parámetros clave. Es por ello que será necesario tener estos parametros controlados y visualizados en un dashboard. La implementación del dashboard se realizará mediante el software web Node-Red. Sobre dicho dashboard se podrán ver las gráficas correspondientes a los datos ambientales que están sensorizados. Los parámetros que vamos a controlar son:
@@ -44,7 +44,7 @@ En el proceso de fabricación de las piezas de plástico que componen el robot, 
 
 Los sensores se encuentran integrados sobre un placa Particle Argon, que irá a su vez integrada sobre la ranura que se ha creado en la tarea anterior.
 
-En la carpeta Tarea 3 se encuentra el archivo .ino con el código del microcontrolador Particle y el archivo JSON con el dashboard en Node-Red.
+En la carpeta **Tarea 3** se encuentra el archivo .ino con el código del microcontrolador Particle y el archivo JSON con el dashboard en Node-Red.
 
 ![](images/Dashboard.png)
 
@@ -60,11 +60,11 @@ La clasificación consta de un sensor de detección de alturas de cajas, el cual
 ![](images/Programa.png)
 [![PULSA AQUI PARA VER EL VIDEO](https://gyazo.com/8392fc11e0f13c68a845dd81e15936a3)](https://www.youtube.com/watch?v=cuvw47vaStA&feature=youtu.be)
 
-En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
+En la carpeta **Tarea 4** se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
 
 ## TAREA 5: Visualización con Tableau de los datos ambientales del aula.
 Por último, pero no por ello menos importante se dispone a visualizar los datos ambientales del aula mediante el software Tableau. Este software permite una representación muy cómoda y sencilla de entender sobre cualquiera de los datos que se quiera presentar. En este caso se ha optado por una representación en forma de diagrama de barras con ligeras modificaciones para cada gráfica, variando desde representaciones lineales, hasta poligonales.
 
 ![](images/tableau.png)
 
-En la carpeta Tarea 5 se encuentra el archivo .twb propio del software Tableau.
+En la carpeta **Tarea 5** se encuentra el archivo .twb propio del software Tableau.
