@@ -63,6 +63,8 @@ La clasificación consta de un sensor de detección de alturas de cajas, el cual
 En la carpeta Tarea 4 se encuentra el archivo .io con el programa que ejecuta la clasificación dentro del software Factory I/O.
 
 ## TAREA 5: Visualización con Tableau de los datos ambientales del aula.
-Por último, pero no por ello menos importante se dispone a visualizar los datos ambientales del aula mediante el software Tableau. Este software permite una representación muy cómoda y sencilla de entender sobre cualquiera de los datos que se quiera presentar. En este caso se ha optado por una representación en forma de diagrama de barras BLA BLA BLA BLA
+Por último, pero no por ello menos importante se dispone a visualizar los datos ambientales del aula mediante el software Tableau. Este software permite una representación muy cómoda y sencilla de entender sobre cualquiera de los datos que se quiera presentar. En este caso se ha optado por una representación en forma de diagrama de barras con ligeras modificaciones para cada gráfica, variando desde representaciones lineales, hasta poligonales.
 
 ![](images/tableau.png)
+
+En la carpeta Tarea 5 se encuentra el archivo .twb propio del software Tableau.
